@@ -23,7 +23,6 @@ classifiers = [
 ]
 dependencies = [
   "maturin>=1.1,<2.0",
-  # "cryo_python",
   "cryogen>=0.2.1,<0.3",
 ]
 
